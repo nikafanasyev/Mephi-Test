@@ -1,0 +1,11 @@
+C:\Users\Andrey\source\repos\MEPHI_TEST\MEPHI_TEST\bin\Debug\netcoreapp3.1\MEPHI_TEST.exe
+C:\Users\Andrey\source\repos\MEPHI_TEST\MEPHI_TEST\bin\Debug\netcoreapp3.1\MEPHI_TEST.deps.json
+C:\Users\Andrey\source\repos\MEPHI_TEST\MEPHI_TEST\bin\Debug\netcoreapp3.1\MEPHI_TEST.runtimeconfig.json
+C:\Users\Andrey\source\repos\MEPHI_TEST\MEPHI_TEST\bin\Debug\netcoreapp3.1\MEPHI_TEST.runtimeconfig.dev.json
+C:\Users\Andrey\source\repos\MEPHI_TEST\MEPHI_TEST\bin\Debug\netcoreapp3.1\MEPHI_TEST.dll
+C:\Users\Andrey\source\repos\MEPHI_TEST\MEPHI_TEST\bin\Debug\netcoreapp3.1\MEPHI_TEST.pdb
+C:\Users\Andrey\source\repos\MEPHI_TEST\MEPHI_TEST\obj\Debug\netcoreapp3.1\MEPHI_TEST.AssemblyInfoInputs.cache
+C:\Users\Andrey\source\repos\MEPHI_TEST\MEPHI_TEST\obj\Debug\netcoreapp3.1\MEPHI_TEST.AssemblyInfo.cs
+C:\Users\Andrey\source\repos\MEPHI_TEST\MEPHI_TEST\obj\Debug\netcoreapp3.1\MEPHI_TEST.dll
+C:\Users\Andrey\source\repos\MEPHI_TEST\MEPHI_TEST\obj\Debug\netcoreapp3.1\MEPHI_TEST.pdb
+C:\Users\Andrey\source\repos\MEPHI_TEST\MEPHI_TEST\obj\Debug\netcoreapp3.1\MEPHI_TEST.csprojAssemblyReference.cache
